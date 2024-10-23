@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "test-docker-airflow"
+version = "0.1.0"
+description = ""
+authors = ["nsonz <38589253+ongmanz@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
